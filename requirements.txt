@@ -1,0 +1,8 @@
+spaces
+gradio
+opencv-python
+numpy
+time
+random
+pillow
+torch
